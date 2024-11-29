@@ -1,2 +1,0 @@
-# PhytonProject
-Урок1
